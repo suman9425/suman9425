@@ -7,9 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/suman9425"><img src="https://komarev.com/ghpvc/?username=suman9425&color=38bdf8&style=flat-square&label=Profile+Views" /></a>
   <a href="https://github.com/suman9425?tab=followers"><img src="https://img.shields.io/github/followers/suman9425?color=38bdf8&style=flat-square&logo=github&label=Followers" /></a>
-  <a href="https://linkedin.com/in/suman9425"><img src="https://img.shields.io/badge/LinkedIn-Connect-38bdf8?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/suman-kulung-60a07825b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-38bdf8?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -77,11 +76,8 @@
   <a href="mailto:suman9425@gmail.com">
     <img src="https://img.shields.io/badge/Email-suman9425@gmail.com-38bdf8?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/suman9425">
+  <a href="https://www.linkedin.com/in/suman-kulung-60a07825b/">
     <img src="https://img.shields.io/badge/LinkedIn-Suman%20K.%20Rai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/suman9425">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
 
