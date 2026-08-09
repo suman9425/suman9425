@@ -1,30 +1,37 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=220&section=header&text=Suman%20K.%20Rai%20%F0%9F%91%8B&fontSize=40&fontColor=38bdf8&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20Cloud%20Native%20Architect&descSize=16&descColor=94a3b8" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=220&section=header&text=Suman%20K.%20Rai&fontSize=40&fontColor=38bdf8&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20Cloud%20Native%20Architect&descSize=16&descColor=94a3b8" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+High-Performance+Backend;Developing+Scalable+Frontend+Architectures;Optimizing+Database+Performance+with+Clean+Code;Turning+Vision+Into+Reality+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Robust+Backend+Architectures;Crafting+Sleek+Frontend+Interfaces;Optimizing+Database+Performance;Turning+Complex+Logic+Into+Clean+Code+⚡" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/suman9425"><img src="https://img.shields.io/github/followers/suman9425?color=38bdf8&style=flat-square&logo=github&label=Followers&labelColor=111827" /></a>
-  <a href="https://www.linkedin.com/in/suman-kulung-60a07825b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-38bdf8?style=flat-square&logo=linkedin&logoColor=white&labelColor=111827" /></a>
+  <a href="https://github.com/suman9425?tab=followers"><img src="https://img.shields.io/github/followers/suman9425?color=38bdf8&style=flat-square&logo=github&label=Followers" /></a>
+  <a href="https://www.linkedin.com/in/suman-kulung-60a07825b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-38bdf8?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
 ## ⚡ Executive Summary
 
-> "Engineering resilient digital solutions from high-performance databases down to fluid user experiences. Obsessed with clean architecture, scalability, and modern web standards. Let's build something amazing."
+> "Engineering resilient digital solutions from high-performance databases down to fluid user experiences. Obsessed with clean architecture, scalability, and modern web standards."
 
 ---
 
 ## 🛠️ Technology Ecosystem
 
+<br>
+
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,js,nodejs,express,py,fastapi,java,mongodb,postgresql,mysql,redis,docker,aws,firebase,git,github,vscode,postman,linux,figma&per=7" />
-  </a>
+
+| Category | Core Stack & Technologies |
+| :--- | :--- |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,js" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,java" /> |
+| **Databases & Cloud** | <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,docker,aws,firebase" /> |
+| **Tools & Workflow** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma" /> |
+
 </div>
 
 <br>
@@ -46,12 +53,11 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=suman9425&theme=nord&hide_border=true&date_format=M j[, Y]" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=suman9425&theme=nord&hide_border=true" width="100%" />
 </p>
 
-<!-- Animated Glowing Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suman9425&theme=react-dark&hide_border=true&area=true&hide_title=true&custom_color_bg=111827&color=38BDF8&line=38BDF8" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suman9425&theme=nord&hide_border=true&custom_color_bg=2e3440&color=88c0d0" width="100%" />
 </p>
 
 ---
