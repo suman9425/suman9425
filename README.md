@@ -1,40 +1,47 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suman%20K.%20Rai&fontSize=42&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Code%20Hacker&descSize=15&descColor=94a3b8" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:111827&height=180&section=header&text=Suman%20K.%20Rai&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<!-- ================= HACKER / TYPING GIF SECTION ================= -->
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450" alt="Hacking GIF" />
-</p>
+<!-- ================= TERMINAL & GIF SIDE-BY-SIDE ================= -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Writing+Clean+Code+at+2:00+AM;Deploying+Microservices+to+the+Cloud;Breaking+and+Fixing+Bugs;Turning+Coffee+Into+Code+☕" />
-</p>
+<table align="center" border="0" width="100%">
+  <tr>
+    <td align="center" width="45%">
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Hacking GIF" />
+    </td>
+    <td width="55%">
+<pre><code class="language-bash">
+andrew@suman9425  --------------------
+. OS: .......... Arch Linux, Windows 11
+. Uptime: ...... Active Developer 
+. Host: ........ Full-Stack Engineer
+. Kernel: ...... Node.js / Next.js
+. IDE: ......... VS Code, Neovim
 
----
+- Languages.Programming: 
+  JavaScript, TypeScript, Python, SQL
 
-## ⚡ Executive Summary
+- Languages.Computer: 
+  HTML, CSS, JSON, Git, Docker
 
-> "Engineering resilient digital solutions from high-performance databases down to fluid user experiences. Obsessed with clean architecture, scalability, and modern web standards."
+- Hobbies.Software: 
+  System Architecture, UI/UX
+
+- Contact ---------------------------
+  Email:    suman9425@gmail.com
+  LinkedIn: suman-kulung-60a07825b
+</code></pre>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Technology Ecosystem
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,js,html,css,nodejs,express,py,fastapi,postgres,mongodb,redis,docker,aws,git,github,vscode,linux,figma&per=7" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,js,html,css,nodejs,express,py,fastapi,postgres,mongodb,redis,docker,aws,git,github,vscode,linux" />
 </div>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-Advanced-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React%2FNext.js-Expert-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-Proficient-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
 
 ---
 
@@ -50,24 +57,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suman9425&theme=tokyonight&hide_border=true&area=true&hide_title=true&custom_color_bg=1a1b26&color=7dcfff&line=7dcfff" width="100%" />
-</p>
-
----
-
-## 🌐 Connect & Collaborate
-
-<p align="center">
-  <a href="mailto:suman9425@gmail.com">
-    <img src="https://img.shields.io/badge/Email-suman9425@gmail.com-38bdf8?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/suman-kulung-60a07825b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Suman%20K.%20Rai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suman9425&theme=react-dark&hide_border=true&area=true&hide_title=true&custom_color_bg=111827&color=0ea5e9&line=0ea5e9" width="100%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=70&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=14&fontColor=94a3b8" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0ea5e9&height=100&section=footer"/>
 </p>
