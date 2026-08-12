@@ -5,27 +5,30 @@
 <!-- ================= HACKER GIF & TERMINAL SECTION ================= -->
 <table align="center" border="0" width="100%">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="45%">
       <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Hacking GIF" />
     </td>
-    <td width="50%">
-<pre><code class="language-bash">suman9425@dev-machine
------------------------
-OS       : Arch Linux, Windows 11
-Role     : Full-Stack Engineer
-Stack    : Node.js / Next.js
-Uptime   : 24/7 (Coffee Powered)
-IDE      : VS Code, Neovim
+    <td width="55%">
+<pre><code class="language-bash">
+suman9425@machine  ---------------------
+. OS: .......... Arch Linux, Windows 11
+. Uptime: ...... Active Developer 
+. Role: ........ Full-Stack Engineer
+. Stack: ....... Node.js / Next.js
+. IDE: ......... VS Code, Neovim
 
-> Languages.Programming:
-  JavaScript, TypeScript, Python
+- Languages.Programming: 
+  JavaScript, TypeScript, Python, SQL
 
-> Languages.Computer:
+- Languages.Computer: 
   HTML, CSS, JSON, Git, Docker
 
-> Contact:
-  Email: suman9425@gmail.com
-  Web:   suman-kulung-60a07825b
+- Hobbies.Software: 
+  System Architecture, UI/UX
+
+- Contact ------------------------------
+  Email:    suman9425@gmail.com
+  LinkedIn: suman-kulung-60a07825b
 </code></pre>
     </td>
   </tr>
