@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=220&section=header&text=Suman%20K.%20Rai&fontSize=40&fontColor=38bdf8&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20Cloud%20Native%20Architect&descSize=16&descColor=94a3b8" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suman%20K.%20Rai&fontSize=42&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Code%20Hacker&descSize=15&descColor=94a3b8" />
+</p>
+
+<!-- ================= HACKER / TYPING GIF SECTION ================= -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450" alt="Hacking GIF" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Robust+Backend+Architectures;Crafting+Sleek+Frontend+Interfaces;Optimizing+Database+Performance;Turning+Complex+Logic+Into+Clean+Code+⚡" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/suman9425?tab=followers"><img src="https://img.shields.io/github/followers/suman9425?color=38bdf8&style=flat-square&logo=github&label=Followers" /></a>
-  <a href="https://www.linkedin.com/in/suman-kulung-60a07825b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-38bdf8?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Writing+Clean+Code+at+2:00+AM;Deploying+Microservices+to+the+Cloud;Breaking+and+Fixing+Bugs;Turning+Coffee+Into+Code+☕" />
 </p>
 
 ---
@@ -21,17 +21,10 @@
 
 ## 🛠️ Technology Ecosystem
 
-<br>
-
 <div align="center">
-
-| Category | Core Stack & Technologies |
-| :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,js" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,java" /> |
-| **Databases & Cloud** | <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,docker,aws,firebase" /> |
-| **Tools & Workflow** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma" /> |
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,js,html,css,nodejs,express,py,fastapi,postgres,mongodb,redis,docker,aws,git,github,vscode,linux,figma&per=7" />
+  </a>
 </div>
 
 <br>
@@ -48,25 +41,17 @@
 ## 📊 Performance & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suman9425&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suman9425&layout=compact&theme=nord&hide_border=true&langs_count=7" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suman9425&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suman9425&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=suman9425&theme=nord&hide_border=true" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=suman9425&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suman9425&theme=nord&hide_border=true&custom_color_bg=2e3440&color=88c0d0" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suman9425&theme=tokyonight&hide_border=true&area=true&hide_title=true&custom_color_bg=1a1b26&color=7dcfff&line=7dcfff" width="100%" />
 </p>
-
----
-
-## 🎯 Current Focus & Horizon
-
-- 🔬 **System Design:** Scaling monolithic structures into high-availability microservices.
-- 🚀 **Performance Tuning:** Advanced caching layers with Redis and query optimization in PostgreSQL.
-- 🌐 **Modern Web Standards:** Exploring Server-Driven UI and edge computing paradigms.
 
 ---
 
@@ -84,5 +69,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=80&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=16&fontColor=94a3b8" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=70&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=14&fontColor=94a3b8" />
 </p>
