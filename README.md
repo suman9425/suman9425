@@ -11,19 +11,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Writing+Clean+Code+at+2:00+AM;Deploying+Microservices+to+the+Cloud;Breaking+and+Fixing+Bugs;Turning+Coffee+Into+Code+☕" />
 </p>
 
----
-
-## ⚡ Executive Summary
-
-> "Engineering resilient digital solutions from high-performance databases down to fluid user experiences. Obsessed with clean architecture, scalability, and modern web standards."
-
----
-
 ## 🛠️ Technology Ecosystem
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,js,html,css,nodejs,express,py,fastapi,postgres,mongodb,redis,docker,aws,git,github,vscode,linux,figma&per=7" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,js,html,css,nodejs,express,mongodb,git,github,vscode,figma&per=7" />
   </a>
 </div>
 
